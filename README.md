@@ -6,12 +6,14 @@ This Github houses the code ready to be deployed to the cloud as an API, but thi
 Please view the code in this Google Colab notebook, which contains the 3 demos at the bottom of how the agent handles different requests.
 
 [Google Colab](https://colab.research.google.com/drive/1flKc7FvMSHKr6hqF4MB13d16IHkdw9bo?usp=sharing) 
+---
 
 ## Demo 1 - Can I create a computer hardware company called Apple?
 
 **Input name:** Apple
 
 **Input summary:** The company manufactures and sells computer hardware, along with offering repairs and maintenance
+---
 
 #### Agent Response:
 
