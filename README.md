@@ -4,10 +4,11 @@ For the Oxford Eth 2025 hackathon we have created a Python bot that can help leg
 Given a propsed name and a description of the company's goods and services, the Agent:
 
 1. gathers data on the different trademark classes from the internet.
-2. assigns classes to the given company.
-3. Fetches similarly named trademarks from the EU IP website.
+2. assigns classes based on the company summary provided.
+3. Scrapes similarly named trademarks from the EU IP website using Selenium.
 4. Filters the results for those with overlapping goods and services.
-5. Writes a report on any potential infringement.
+5. Applies a formula to assess string similarity
+6. Writes a report on any potential infringement.
 
 This Github houses the code ready to be deployed to the cloud as an API, but this is not currently running.
 
