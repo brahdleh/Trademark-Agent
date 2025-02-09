@@ -15,8 +15,6 @@ Agent Response:
 
 Date: February 9th, 2025
 
-Classification Details:
-
 This audit concerns the proposed trademark "APPLE" and its potential for infringement within the following Nice Classes:
 
 Class 9: Broadly covers scientific, technological, and computer-related apparatus, instruments, software, and accessories.
