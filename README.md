@@ -7,8 +7,7 @@ Please view the code in this Google Colab notebook, which contains the 3 demos a
 
 https://colab.research.google.com/drive/1flKc7FvMSHKr6hqF4MB13d16IHkdw9bo?usp=sharing
 
-## Demo 1
-Can I create a computer hardware company called Apple?
+## Demo 1 - Can I create a computer hardware company called Apple?
 
 Agent Response:
 
