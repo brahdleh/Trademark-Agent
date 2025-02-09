@@ -47,10 +47,6 @@ The following trademarks have been flagged as potential conflicts due to their s
 
 APPLE
 
-APPLE
-
-APPLE
-
 **Recommended Actions:**
 
 Given the presence of identical trademark registrations, the following actions are recommended to mitigate the risk of infringement:
