@@ -1,6 +1,14 @@
 # IP Agent
 For the Oxford Eth 2025 hackathon we have created a Python bot that can help legal firms find infringement in trademark requests.
 
+Given a propsed name and a description of the company's goods and services, the Agent:
+
+1. gathers data on the different trademark classes from the internet.
+2. assigns classes to the given company.
+3. Fetches similarly named trademarks from the EU IP website.
+4. Filters the results for those with overlapping goods and services.
+5. Writes a report on any potential infringement.
+
 This Github houses the code ready to be deployed to the cloud as an API, but this is not currently running.
 
 Please view the code in this Google Colab notebook, which contains the 3 demos at the bottom of how the agent handles different requests.
