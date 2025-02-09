@@ -12,9 +12,9 @@ https://colab.research.google.com/drive/1flKc7FvMSHKr6hqF4MB13d16IHkdw9bo?usp=sh
 
 **Input summary:** The company manufactures and sells computer hardware, along with offering repairs and maintenance
 
-### Agent Response:
+#### Agent Response:
 
-#### Trademark Infringement Audit
+### Trademark Infringement Audit
 
 **Date:** February 9th, 2025
 
