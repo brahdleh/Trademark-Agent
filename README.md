@@ -13,6 +13,7 @@ Please view the code in this Google Colab notebook, which contains the 3 demos a
 **Input name:** Apple
 
 **Input summary:** The company manufactures and sells computer hardware, along with offering repairs and maintenance
+
 ---
 
 #### Agent Response:
