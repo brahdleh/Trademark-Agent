@@ -36,7 +36,9 @@ The following trademarks have been flagged as potential conflicts due to their s
 
 **Exact Matches:**
 APPLE
+
 APPLE
+
 APPLE
 
 **Recommended Actions:**
