@@ -35,6 +35,7 @@ Conflict Details:
 The following trademarks have been flagged as potential conflicts due to their similarity to the proposed trademark "APPLE":
 
 **Exact Matches:**
+
 APPLE
 
 APPLE
