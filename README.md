@@ -12,7 +12,7 @@ Given a propsed name and a description of the company's goods and services, the 
 
 This Github houses the code ready to be deployed to the cloud as an API, but this is not currently running.
 
-Please view the code in this Google Colab notebook, which contains the 3 demos at the bottom of how the agent handles different requests.
+Please view the code in this Google Colab notebook, which contains the 3 real demos you see in this ReadMe.
 
 [Google Colab](https://colab.research.google.com/drive/1flKc7FvMSHKr6hqF4MB13d16IHkdw9bo?usp=sharing) 
 
@@ -96,3 +96,44 @@ To establish and secure exclusive rights to the "Bradcorp" trademark within the 
 
 File a European Union Trademark (EUTM) application: A formal application should be filed with the European Union Intellectual Property Office (EUIPO) seeking registration of the "Bradcorp" mark for the specific goods within Class 13 that the client intends to use the mark in connection with.
 Monitor the Trademark Register: Continuously monitor the EUIPO trademark register for any newly filed applications that may be similar to "Bradcorp" to proactively address any potential future conflicts.
+
+---
+
+## Demo 3 - A hardware wallet manufacturer called Ledger
+
+**Input name:** Ledger
+**Input summary:** The company manufactures and sells Crypto hardware wallets.
+
+---
+
+#### Agent Response:
+
+### Trademark Infringement Audit
+
+**Date:** February 9th, 2025
+
+**Classification Details:**
+
+The client is seeking trademark protection for the name "Ledger" in Class 9, encompassing a wide range of goods including scientific and technological apparatus, data processing equipment, computer software, telecommunications apparatus, and protective clothing.
+
+**Conflict Details:**
+
+The following potentially conflicting trademarks have been identified:
+
+**Exact Matches:** LEDGER, Ledger, LEDGER
+
+**Similar Names:** xledger, XLEDGER
+
+**Recommended Actions:**
+
+Given the presence of exact matches and highly similar names, the following actions are recommended:
+
+**Modify Application:** Consider modifying the application to include a distinctive logo or design element in conjunction with the name "Ledger" to differentiate it from existing trademarks. Alternatively, consider adding a descriptive term to create a composite mark (e.g., "Ledger Tech").
+
+**Consult Legal Advice:** Seek detailed advice from an experienced EU trademark attorney. A comprehensive search of the EU Intellectual Property Office (EUIPO) and relevant national registries should be conducted to assess the strength of the existing marks and the likelihood of confusion. The attorney can provide a professional opinion on the chances of successfully registering the "Ledger" mark and advise on potential infringement risks.
+
+**Negotiate with Trademark Holder(s):** If, after legal review, the risk of infringement is deemed significant, consider approaching the holder(s) of the earlier trademark(s) for LEDGER. Options could include:
+
+Negotiating a coexistence agreement, outlining specific territories or goods/services where both parties can operate without infringement.
+Purchasing or licensing the existing trademark(s).
+Failure to address these potential conflicts could result in the EUIPO rejecting the trademark application or the client facing a trademark infringement lawsuit in the future.
